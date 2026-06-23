@@ -14,7 +14,22 @@ Vad bygger vi, för vem – och vem kan stoppa det om användningen glider?
 
 ---
 
-Ladda ner PDF:erna
+Ladda ner hela paketet
+
+För den som vill ladda ner allt på en gång finns alla tre PDF:er samlade i en ZIP-fil:
+
+ZIP:
+[Kallkollen_Byggstenarna_for_kontrollsystemet.zip](./Kallkollen_Byggstenarna_for_kontrollsystemet.zip)
+
+Innehåller:
+
+- Fördjupad granskning
+- Lättläst version
+- 28 kontrollfrågor
+
+---
+
+Ladda ner PDF:erna separat
 
 Fördjupad granskning
 
