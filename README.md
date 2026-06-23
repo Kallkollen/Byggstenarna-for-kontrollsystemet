@@ -18,8 +18,8 @@ Ladda ner hela paketet
 
 För den som vill ladda ner allt på en gång finns alla tre PDF:er samlade i en ZIP-fil:
 
-ZIP:
-[Kallkollen_Byggstenarna_for_kontrollsystemet.zip](./Kallkollen_Byggstenarna_for_kontrollsystemet.zip)
+ZIP – direkt nedladdning:
+[Kallkollen_Byggstenarna_for_kontrollsystemet.zip](https://github.com/Kallkollen/Byggstenarna-for-kontrollsystemet/raw/main/Kallkollen_Byggstenarna_for_kontrollsystemet.zip)
 
 Innehåller:
 
