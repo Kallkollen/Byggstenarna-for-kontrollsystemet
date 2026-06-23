@@ -21,7 +21,7 @@ Fördjupad granskning
 Full version med hela genomgången, metodgränser, källor och fördjupad analys.
 
 PDF:
-"Kallkollen_Byggstenarna_for_kontrollsystemet_fordjupad.pdf" (./Kallkollen_Byggstenarna_for_kontrollsystemet_fordjupad.pdf)
+[Kallkollen_Byggstenarna_for_kontrollsystemet_fordjupad.pdf](./Kallkollen_Byggstenarna_for_kontrollsystemet_fordjupad.pdf)
 
 ---
 
@@ -30,7 +30,7 @@ Lättläst version
 Kortare version för snabbare överblick.
 
 PDF:
-"Kallkollen_Byggstenarna_for_kontrollsystemet_lattlast.pdf" (./Kallkollen_Byggstenarna_for_kontrollsystemet_lattlast.pdf)
+[Kallkollen_Byggstenarna_for_kontrollsystemet_lattlast.pdf](./Kallkollen_Byggstenarna_for_kontrollsystemet_lattlast.pdf)
 
 ---
 
@@ -39,7 +39,7 @@ PDF:
 Fristående frågebilaga som kan skickas till partier, politiker, journalister och myndigheter.
 
 PDF:
-"Kallkollen_28_kontrollfragor.pdf" (./Kallkollen_28_kontrollfragor.pdf)
+[Kallkollen_28_kontrollfragor.pdf](./Kallkollen_28_kontrollfragor.pdf)
 
 ---
 
